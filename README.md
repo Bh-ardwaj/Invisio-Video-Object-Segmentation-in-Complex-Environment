@@ -59,6 +59,7 @@ PyTorch (>=1.10)
 Quick Setup
 bash
 git clone https://github.com/Bh-ardwaj/Invisio-Video-Object-Segmentation-in-Complex-Environment.git
+
 cd Invisio-Video-Object-Segmentation-in-Complex-Environment
 
 # For GPU support (optional)
@@ -92,6 +93,7 @@ This project is licensed under the MIT License.
 💬 Have questions or suggestions? Reach out!
 
 📩 Email: bhardwajtushar93181@gmail.com
+
 🔗 GitHub: @Bh-ardwaj
 
 
