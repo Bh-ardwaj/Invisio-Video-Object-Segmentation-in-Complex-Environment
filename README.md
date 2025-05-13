@@ -19,6 +19,7 @@ Most existing solutions struggle with these complexities, producing fragmented o
 
 
 
+
 # 🚀 Overview
 Invisio is a cutting-edge video object segmentation system designed to accurately detect and segment objects in challenging environments with:
 
@@ -34,6 +35,7 @@ Built using PyTorch and OpenCV, this project delivers state-of-the-art performan
 
 
 
+
 # ✨ Key Features
 ✅ Frame-by-frame segmentation with temporal consistency
 
@@ -44,6 +46,7 @@ Built using PyTorch and OpenCV, this project delivers state-of-the-art performan
 ✅ Interactive Jupyter notebook for easy experimentation (main_file.ipynb)
 
 ✅ Export results as masked videos or PNG sequences
+
 
 
 
@@ -68,6 +71,7 @@ pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 -f https://download.py
 
 
 
+
 # Contributing
 We welcome contributions! Please follow these steps:
 
@@ -84,8 +88,10 @@ Open a Pull Request
 
 
 
+
 # 📜 License
 This project is licensed under the MIT License.
+
 
 
 
